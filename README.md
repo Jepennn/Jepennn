@@ -1,5 +1,3 @@
-## Building things:
-
 ![TypeScript](https://img.shields.io/badge/TypeScript-0A0A0A?logo=typescript)
 ![JavaScript](https://img.shields.io/badge/JavaScript-0A0A0A?logo=javascript)
 ![Python](https://img.shields.io/badge/Python-0A0A0A?logo=python)
